@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/insightvigil/backend-face-recognition-brain#readme",
+  "bugs": {
+    "url": "https://github.com/insightvigil/backend-face-recognition-brain/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insightvigil/backend-face-recognition-brain.git"
+  },
+  "license": "MIT",
+  "author": "Jose Adrian Flores Vigil <insightvigil@gmail.com>",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
