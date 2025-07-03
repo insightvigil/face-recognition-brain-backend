@@ -140,9 +140,9 @@ app.put('/image', (req,res) => {
     .increment('entries',1)
     .returning('entries')
     .then(entries => { 
-        response.json(entries[0].entries)
-    .catch(err => { res.status(400).json('Unable to count')})
+        res.json(entries[0].entries)
     })
+    .catch(err => { res.status(400).json('Unable to count')})
     
 })
 
