@@ -12,8 +12,6 @@ _This repository contains only the backend; the frontend is hosted separately_ [
 ### Applied API's 🧩
 - Clarifai (Face-Detection)
 
-You can check it out live [here](https://insightvigil.github.io/[repository-name]/).
-
 ### Contributors 🤝
 - [Adrián Vigil](https://github.com/insightvigil)
 
