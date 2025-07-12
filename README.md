@@ -2,7 +2,7 @@
 
 A web page where you can upload an image and it detects faces within it.  
 
-_This repository contains only the backend; the frontend is hosted separately_ [here](https://github.com/insightvigil/face-recognition-brain-backend).
+_This repository contains only the backend; the frontend is hosted separately_ [here](https://github.com/insightvigil/face-recognition-brain-frontend).
 
 ### Applied technologies 🧑‍💻
 - JavaScript
