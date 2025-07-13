@@ -43,8 +43,9 @@ app.post('/register',  (req,res) => register.handleRegister(req,res,db,bcrypt) )
 app.get('/profile/:id', (req,res) => profile.handleProfileGet(req,res,db,bcrypt) )
 app.put('/image',(req,res) => image.handleImage(req,res,db,bcrypt) )
 
-const PORT = process.env.PORT
-app.listen(process.env.PORT, () => {
+const PORT = process.env.PORT || 5001;
+
+app.listen(PORT, () => {
     console.log(`App is running on port ${PORT}`)
 })
 
