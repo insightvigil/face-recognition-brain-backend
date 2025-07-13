@@ -24,7 +24,7 @@ connection: {
     port: 5432,
     user: 'mydb_gqg9_user',
     password: 'lJAJ9TC0DKvTQnX1UUMK1Pb7t201SyHp',
-    database: 'mydb_gqg9',
+    database: 'myDB',
 },
 });
 
